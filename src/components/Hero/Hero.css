@@ -1,0 +1,41 @@
+.demo {
+    display: flex;
+}
+.hero {
+    background: #111111;
+    height: 450px;
+    color: white;
+    margin: 100px;
+    margin-left: 130px;
+}
+.main_hero {
+    font-size: 70px;
+}
+.main_hero2 {
+    font-size: 70px;
+}
+.sub_hero {
+    width: 37vw;
+    color: gray;
+    margin: 30px 0px;
+}
+.input {
+    width: 350px;
+    padding: 22px;
+    border-radius: 50px;
+    background-color: rgb(47, 46, 46);
+    border: 1px solid black;
+    color: gray;
+}
+.input-btn {
+    padding: 22px;
+    border-radius: 50px;
+    background-color: rgba(227,183,72,255);
+    border: 1px solid black;
+    /* z-index: -1; */
+    /* margin-right: 70px; */
+
+}
+.hero_img {
+    margin-left: 100px;
+}

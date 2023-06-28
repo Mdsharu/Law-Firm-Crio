@@ -1,0 +1,8 @@
+.navContent {
+    /* background-color: black; */
+    color: white;
+    display: flex;
+}
+.con {
+    margin: 25px;
+}
